@@ -36,3 +36,9 @@ triple-ten/
 ├── notebooks/
 │   └── EDA.ipynb
 └── .gitignore
+
+## Deployed Application
+
+The deployed app is available here:
+
+https://triple-ten-ampg.onrender.com
